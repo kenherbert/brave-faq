@@ -27,3 +27,5 @@ Submitted screenshots should not include any private information, and should not
 (optional) Also include your Brave-verified Reddit, Twitter, or Github account with the submission. I will link you in the article so grateful users can find a place to tip you. Websites, YouTube, Vimeo, or Twitch will not be included because I'm not here to advertise you or give you external links.
 
 Please understand that for the purpose of site consistency I may rewrite some content, and may add, edit, or leave out screenshots as I see fit.
+
+Please do not submit anything that would actively go against Brave's terms of service, or would break the law. These submissions will be removed.
